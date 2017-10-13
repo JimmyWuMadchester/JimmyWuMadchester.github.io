@@ -15,7 +15,7 @@ While planning a trip to South Downs for stargazing, I've found a bunch of usefu
 
 [Stargazing in South Downs Dark Sky Reserve](http://gostargazing.co.uk/regions/south-downs-dark-sky-reserve)
 
-![]({{ "/assets/media/stargazing_southdowns_googlemap_screenshot.PNG" | absolute_url }} =400*271)
+![GoogleMap](/assets/media/stargazing_southdowns_googlemap_screenshot.PNG){:class="img-responsive"}
 
 You can use the links in this location list to check the weather forecast, location light pollution and best time to stargaze:
 
