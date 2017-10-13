@@ -15,6 +15,8 @@ While planning a trip to South Downs for stargazing, I've found a bunch of usefu
 
 [Stargazing in South Downs Dark Sky Reserve](http://gostargazing.co.uk/regions/south-downs-dark-sky-reserve)
 
+![]({{ "/assets/media/stargazing_southdowns_googlemap_screenshot.PNG" | absolute_url }} =400*271)
+
 You can use the links in this location list to check the weather forecast, location light pollution and best time to stargaze:
 
 * [Birling Gap](http://gostargazing.co.uk/events/locations/birling-gap/): Birling Gap, Eastbourne, Sussex, BN20 0AB [(Live weather:partly_sunny:)](https://www.accuweather.com/en/gb/east-dean/bn20-0/astronomy-weather/43217_pc)
