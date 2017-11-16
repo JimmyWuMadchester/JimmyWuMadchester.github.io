@@ -22,7 +22,7 @@ Best,
 
 ### Summary
 
-Time: 10:30am, Saturday, 9th December 2017.
+Time: 10:30am, Saturday or Sunday, 9th/10th December 2017.
 
 Location: Dorking Main station
 
