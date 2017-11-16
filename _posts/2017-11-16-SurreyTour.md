@@ -23,7 +23,9 @@ Best,
 ### Summary
 
 Time: 10:30am, Saturday, 9th December 2017.
+
 Location: Dorking Main station
+
 Activities: trail walking/running/hiking, wine tasting, wineyard tour, ice skating, house warming
 
 ### Getting to the start
