@@ -42,6 +42,8 @@ Public transport becomes really bad on Sunday, one of the reason I'm planning it
 
 Through the stepping stones path, it takes another 20mins walking up to the top of Box Hill. Enjoy the top view :)
 
+Cyclists feel free to ride from London. We will see you at the top.
+
 ### Denbies Wine Estate
 
 Walk downhill 35mins to nearby Denbies Wine Estate. Indoor wine tasting and Christmas lunch.
@@ -52,7 +54,7 @@ I've called them, and they have confirmed they will be able to cater us on 9th D
 
 Walk 20mins to Dorking Deepdene station, then another 10mins train to Reigate station. There are bus services going to Reigate as well but takes longer. 
 
-Walk from Reigate station to Priory Park via castle ground and high street. They have an ice rink in the park if you fance ice skating. For the keen athletics, bring your trail running shoes! Fantastic trails in the park and nearby.
+Walk from Reigate station to Priory Park via castle ground and high street. They have an ice rink in the park if you fancy ice skating. For the keen athletics, bring your trail running shoes! Fantastic trails in the park and nearby.
 
 ### Yulin's Place
 
