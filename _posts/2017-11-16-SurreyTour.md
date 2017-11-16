@@ -28,7 +28,7 @@ Location: Dorking Main station
 
 Activities: trail walking/running/hiking, wine tasting, wineyard tour, ice skating, house warming
 
-Node: Any pregnant women will be transported by car. 
+Node: Any pregnant women will be transported by car through out the day trip. 
 
 ### Getting to the start
 
