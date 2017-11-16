@@ -28,6 +28,8 @@ Location: Dorking Main station
 
 Activities: trail walking/running/hiking, wine tasting, wineyard tour, ice skating, house warming
 
+Node: Any pregnant women will be transported by car. 
+
 ### Getting to the start
 
 Public transport becomes really bad on Sunday, one of the reason I'm planning it for a Saturday out. We will start from a car park not far from Box Hill. Maybe start from the car park around 10:30am? 
@@ -50,7 +52,7 @@ I've called them, and they have confirmed they will be able to cater us on 9th D
 
 Walk 20mins to Dorking Deepdene station, then another 10mins train to Reigate station. There are bus services going to Reigate as well but takes longer. 
 
-Walk from Reigate station to Priory Park via castle ground and high street. They have an ice rink in the park if you fance ice skating. 
+Walk from Reigate station to Priory Park via castle ground and high street. They have an ice rink in the park if you fance ice skating. For the keen athletics, bring your trail running shoes! Fantastic trails in the park and nearby.
 
 ### Yulin's Place
 
@@ -58,4 +60,4 @@ Another 30mins walk or 5mins taxi to my place for dinner and drinks. Again open 
 
 ### Going back to London
 
-It might take longer than you expect. Southern trains are really sluggish during weekends. In the worst case, you should be able to get to Gatwick Airport and going back to London from there.
+It might take longer than you expect. Southern trains are in general sluggish during weekends, and there will be planned engineering work during that weekends. In the worst case, you should be able to get to Gatwick Airport and going back to London from there.
