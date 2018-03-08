@@ -41,5 +41,7 @@ I'll try to ask the diving centre if they have GoPro we can borrow. If any of yo
 ### My schedules
 
 Fly London Gatwick to Mallorca Palma: 26 April 21:55
+
 Fly Mallorca Palma back to Gatwick: 6 May 11:00
+
 I'm there early for the Mallorca312 cycling event with another friend on 28 April.
