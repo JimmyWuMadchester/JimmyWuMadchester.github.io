@@ -15,7 +15,7 @@ A scuba diving trip for obtaining the PADI OW certificate in Mallorca.
 
 Time: 3+ Days from 8:00am, Monday, 30th April 2018
 
-Location: Scuba Mallorca, Carrer d’Elcano 23, 07470 Port de Pollença, Mallorca, Spain ([View in Google Map](https://maps.google.com/maps?ll=39.909149,3.007624&z=11&t=m&hl=en-US&gl=US&mapclient=embed&cid=11490185346530403221))
+Location: [Scuba Mallorca](http://scubamallorca.com/), Carrer d’Elcano 23, 07470 Port de Pollença, Mallorca, Spain ([View in Google Map](https://maps.google.com/maps?ll=39.909149,3.007624&z=11&t=m&hl=en-US&gl=US&mapclient=embed&cid=11490185346530403221))
 
 Price: £118 PADI eLearning + €295(in cash for greater discount) actual course in Mallorca
 
