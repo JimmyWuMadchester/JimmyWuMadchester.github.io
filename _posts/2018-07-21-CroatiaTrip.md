@@ -1,8 +1,8 @@
 ---
 layout: post
-title: PADI OW course in Mallorca
+title: Road Trip Croatia
 categories: [Leisure]
-tags: [scuba, mallorca, Spain, diving]
+tags: [scuba diving, paragliding, Croatia, party, hiking]
 comments: true
 excerpt_separator: <!--more-->
 ---
