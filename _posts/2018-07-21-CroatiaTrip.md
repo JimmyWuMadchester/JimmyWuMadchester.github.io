@@ -37,20 +37,20 @@ Aug 21 (Split):
     1. City wall (2k long)
     1. Lovrijenac Fortress (King's Landing)
     1. Old town port (southern end of the city walls)
-    1. [Sea kayaking](https://www.adventuredubrovnik.com/)
+* [Sea kayaking](https://www.adventuredubrovnik.com/) if we are keen
 * Drive Dubrovnik to Split (213k 3:40h)
     1. Pick up rental car from Dubrovnik Downtown
     1. Tuesday, August 21, 2018 @ 4:30 PM
     1. Kardinala Stepinca 32, Dubrovnik, 20000 
     1. Branch tel: 0038520437575
 
-Aug 22 (Split): 
+Aug 22 (Split): - ***HELP!***
 
 * *Scuba diving*
 * *Paragliding* (A bit far from Split. Difficult to slot in.)
 * Jennie arrives in Split in the late evening
 
-Aug 23 (Hvar): 
+Aug 23 (Hvar): - ***HELP!***
 
 * Ferry from Split to Hvar
     1. Get to the ferry port early with possibly 2 hours in advance.
