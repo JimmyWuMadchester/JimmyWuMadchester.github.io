@@ -17,12 +17,14 @@ A road trip from Dubrovnik to Zagreb in Croatia with different activities along 
 * [Dubrovnik Airport transfer](https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/to-from-dubrovnik-airport/): Depending on where to go, bus takes you closer to the old town. 
     1. **Bus** every 15 mins; 40 Kuna; 30 mins journey time. Get on and the driver will come around to sell tickets. Bus stops at Pile Gate (old town) and then goes to main bus station (outside the old town).
     1. **Taxi** 170-200 Kuna to the old town.
+* Split ferry info: For detailed ferry information check the [Croatia Ferries](https://www.croatiaferries.com/) website or go directly with the largest croatian ferry company, [Jadrolinija](https://www.jadrolinija.hr/en/ferry-croatia).
+* [Split ferry port parking](http://split.gg/parking-in-split/)
 
 ### Itinerary
 
 Aug 20 (Dubrovnik):
 
-* 10:45am Yulin arrives and picks up the car. 
+* 10:45am Yulin arrives 
 * Cable car up to Srd Hill for the panorama view (413m height; 3mins one-way trip costs 8 euros; 90mins on foot)
 * Island of Lokrum (short boat hop from old town, a popular swimming spot)
 * Drink at Cliff Bar
@@ -30,29 +32,38 @@ Aug 20 (Dubrovnik):
 Aug 21 (Split): 
 
 * Zhe arrives 10:30am
-* Old town walk starting from Pile Gate (West Gate). Likely to have queues at town gates. 
+* Dubrovnik old town walk starting from Pile Gate (West Gate). Likely to have queues at town gates. 
     1. Franciscan Monastery (just pass the Pile Gate)
     1. City wall (2k long)
     1. Lovrijenac Fortress (King's Landing)
     1. Old town port (southern end of the city walls)
+    1. [Sea kayaking](https://www.adventuredubrovnik.com/)
 * Drive Dubrovnik to Split (213k 3:40h)
+    1. Pick up rental car from Dubrovnik Downtown
+    1. Tuesday, August 21, 2018 @ 4:30 PM
+    1. Kardinala Stepinca 32, Dubrovnik, 20000 
+    1. Branch tel: 0038520437575
 
 Aug 22 (Split): 
 
-* Scuba diving
-* Paragliding
-* Jennie arrives in Split
+* *Scuba diving*
+* *Paragliding* (A bit far from Split. Difficult to slot in.)
+* Jennie arrives in Split in the late evening
 
 Aug 23 (Hvar): 
 
-* Car ferry from Split to Hvar
+* Ferry from Split to Hvar
     1. Get to the ferry port early with possibly 2 hours in advance.
-* Blue cave
+    1. Last foot-passenger only leaves at 5pm. See [timetable](https://www.croatiaferries.com/split-hvar-ferry.htm#August)
+    1. Maybe left car in Split
+    1. Could consider rent a boat or do a boat tour?
+* Blue cave speed boat tour
+* Snorkeling
 * Party in Hvar
 
 Aug 24 (Zadar):
 
-* Car ferry back to Split (1h40)
+* Ferry back to Split (1h40)
 * Drive Split to Krka Skradin entrance(106k 1h30)
 * Visit Krka National Park
     1. Open from 8am to 5pm
@@ -71,27 +82,34 @@ Aug 25 (Plitvička):
 * Plitvička Jezera (Plitvice Lakes)
     1. Open from 7am to 7pm
     1. Ticket costs 180 Kuna
-
 * Hiking 5hrs
 
 Aug 26 (Zagreb): 
 
 * Drive Plitvička to Zagreb (132k 2:00)
-* Crkva sv. Marka (St. Mark's Church)
-* Drink at Tkalčićeva (bars and small stores)
-* Croatian National Theatre
-* Museum of Broken Relationships
+* Visit Zagreb
+    1. Crkva sv. Marka (St. Mark's Church)
+    1. Drink at Tkalčićeva (bars and small stores)
+    1. Croatian National Theatre
+    1. Museum of Broken Relationships
+* Return rental car at Zagreb airport
+    1. Sunday, August 26, 2018 @ 4:30 PM
+    1. Airport Terminal, Zagreb, 10150 
+    1. Branch tel: 00385996094068
 * Jennie flying from Zagreb 5pm
 
-Aug 27: 
+Aug 27 (Zagreb airport): 
 
 * Fly Zagreb to Prague 7am 
 
 ### Accommodation
 
+The bracket after each date states where to stay for the night. See some of the booking recommendations below.
 
+#### Dubrovnik
 
-### Other activities
-
+One great place to stay – far away from the old town madness but easily reachable by bus/car – is the **Lapad** peninsula. Despite being an area with many high-end luxurious hotels, it’s also possible to find cheap accommodation next to the best beaches near Dubrovnik. Take a look at [this shortlist in Booking](https://www.geekyexplorer.com/suggests/hotels-dubrovnik/). It contains only the top-rated hotels in Dubrovnik, with WiFi and breakfast included.
 
 ### My schedules
+
+I'm visiting Dolomites in Italy before flying to Dubrovnik from Venice.
