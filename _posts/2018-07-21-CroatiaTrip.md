@@ -28,6 +28,7 @@ Aug 20 (Dubrovnik):
 * Cable car up to Srd Hill for the panorama view (413m height; 3mins one-way trip costs 8 euros; 90mins on foot)
 * Island of Lokrum (short boat hop from old town, a popular swimming spot)
 * Drink at Cliff Bar
+* Mu booked accommodation.
 
 Aug 21 (Split): 
 
@@ -60,6 +61,7 @@ Aug 23 (Hvar): - ***HELP!***
 * Blue cave speed boat tour
 * Snorkeling
 * Party in Hvar
+* Jennie booked accommodation
 
 Aug 24 (Zadar):
 
