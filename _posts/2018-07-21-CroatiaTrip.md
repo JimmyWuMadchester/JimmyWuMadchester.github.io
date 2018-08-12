@@ -49,7 +49,7 @@ Aug 22 (Split): - ***HELP!***
 
 * *Scuba diving*
 * *Paragliding* (A bit far from Split. Difficult to slot in.)
-* Jennie arrives in Split in the late evening
+* Jennie arrives in Split at 20:20
 
 Aug 23 (Hvar): - ***HELP!***
 
@@ -61,7 +61,7 @@ Aug 23 (Hvar): - ***HELP!***
 * Blue cave speed boat tour
 * Snorkeling
 * Party in Hvar
-* Jennie booked accommodation
+* Jennie booked accommodations
 
 Aug 24 (Zadar):
 
@@ -77,6 +77,7 @@ Aug 24 (Zadar):
 * Visit Zadar
     1. Roman ruins around St. Donatus Church and Cathedral of St. Anastasia
     1. Waterfront for sunset(7:30pm). Check out Morske orgulje and Sun Salutation.
+* Zhe booked accommodations
 
 Aug 25 (Plitvička):
 
@@ -85,6 +86,7 @@ Aug 25 (Plitvička):
     1. Open from 7am to 7pm
     1. Ticket costs 180 Kuna
 * Hiking 5hrs
+* Yulin booked accommodations
 
 Aug 26 (Zagreb): 
 
@@ -100,9 +102,14 @@ Aug 26 (Zagreb):
     1. Branch tel: 00385996094068
 * Jennie flying from Zagreb 5pm
 
-Aug 27 (Zagreb airport): 
+Aug 27 (Prague): 
 
 * Fly Zagreb to Prague 7am 
+* Yulin booked accommodations
+
+Aug 28 (Going home)
+
+* Fly Prague to LGW 12:25
 
 ### Accommodation
 
