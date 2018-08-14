@@ -44,12 +44,14 @@ Aug 21 (Split):
     1. Tuesday, August 21, 2018 @ 4:30 PM
     1. Kardinala Stepinca 32, Dubrovnik, 20000 
     1. Branch tel: 0038520437575
+* Mu booked accommodations
 
 Aug 22 (Split): - ***HELP!***
 
 * *Scuba diving*
 * *Paragliding* (A bit far from Split. Difficult to slot in.)
 * Jennie arrives in Split at 20:20
+* Mu booked accommodations
 
 Aug 23 (Hvar): - ***HELP!***
 
@@ -101,6 +103,7 @@ Aug 26 (Zagreb):
     1. Airport Terminal, Zagreb, 10150 
     1. Branch tel: 00385996094068
 * Jennie flying from Zagreb 5pm
+* Yulin booked accommodations
 
 Aug 27 (Prague): 
 
