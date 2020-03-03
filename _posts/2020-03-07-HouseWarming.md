@@ -17,9 +17,10 @@ excerpt_separator: <!--more-->
 
 ## Transportation
 
-Meet up time and location: 11am at Reigate Station
+1. First Meet up time and location: 11am at Reigate Station
 
-Car parking: Willis Towers Watson, RH2 9PQ
+   Car parking: Willis Towers Watson, RH2 9PQ
+1. Second meet up time and location: 12:30pm at RH2 7HU
 
 ### Trains
 * Direct Southern Rail services from Victoria to Reigate 40+mins.
