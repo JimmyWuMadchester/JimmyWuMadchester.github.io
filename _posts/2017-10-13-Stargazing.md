@@ -13,7 +13,7 @@ While planning a trip to South Downs for stargazing, I've found a bunch of usefu
 
 ### Location light pollution scale
 
-![Light Pollution Scale](/assets/media/location-light-pollution-scale.PNG){:class="img-responsive"}
+![Light Pollution Scale](/assets/media/location-light-pollution-scale.png){:class="img-responsive"}
 
 ### Short stargazing trip for those living in London
 
