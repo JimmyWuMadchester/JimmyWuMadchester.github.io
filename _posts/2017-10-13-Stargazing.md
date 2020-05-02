@@ -11,20 +11,33 @@ While planning a trip to South Downs for stargazing, I've found a bunch of usefu
 
 <!--more-->
 
+### Location light pollution scale
+
+![Light Pollution Scale](/assets/media/location-light-pollution-scale.PNG){:class="img-responsive"}
+
 ### Short stargazing trip for those living in London
 
-[Stargazing in South Downs Dark Sky Reserve](http://gostargazing.co.uk/regions/south-downs-dark-sky-reserve)
+View interactive map here: [Stargazing in South Downs Dark Sky Reserve](http://gostargazing.co.uk/regions/south-downs-dark-sky-reserve)
 
 ![GoogleMap](/assets/media/stargazing_southdowns_googlemap_screenshot.PNG){:class="img-responsive"}
 
-You can use the links in this location list to check the weather forecast, location light pollution and best time to stargaze:
+You can use the links below to check the weather forecast, location light pollution and best time to stargaze. Locations are grouped by roads and ordered by light pollution condition from better to worse:
 
-* [Birling Gap](http://gostargazing.co.uk/events/locations/birling-gap/): Birling Gap, Eastbourne, Sussex, BN20 0AB [(Live weather)](https://www.accuweather.com/en/gb/east-dean/bn20-0/astronomy-weather/43217_pc)
+#### A3 (Dark site to Semi-rural)
+
+* [Harting Down – National Trust](https://gostargazing.co.uk/events/locations/harting-national-trust/): B2141, South Harting, GU31 5PN [(Live weather)](https://www.accuweather.com/en/gb/south-harting/gu31-5/astronomy-weather/709292)
+* [Bignor Hill Car Park](https://gostargazing.co.uk/events/locations/bignor-hill-car-park/): Bignor, Pullborough, RH20 1PR [Live weather](https://www.accuweather.com/en/gb/fittleworth/rh20-1/astronomy-weather/714258)
+* [Iping Common](http://gostargazing.co.uk/events/locations/iping-common/): Iping, Near Trotton, West Sussex, GU31 4LB [(Live weather)](https://www.accuweather.com/en/gb/iping/gu29-0/astronomy-weather/712893)
 * [Butser Hill](http://gostargazing.co.uk/events/locations/butser-hill/): Butser Hill, Buriton, Petersfield, GU31 5SP [(Live weather)](https://www.accuweather.com/en/gb/south-harting/gu31-5/astronomy-weather/46480_pc)
+* [Old Winchester Hill Nature Reserve](http://gostargazing.co.uk/events/locations/old-winchester-hill-nature-reserve/): Old Winchester Hill, Near Corhampton, Hampshire, SO32 3LJ [(Live weather)](https://www.accuweather.com/en/gb/meonstoke/so32-3/astronomy-weather/52404_pc)
+
+#### A23 (Rural)
+
 * [Devil’s Dyke](http://gostargazing.co.uk/events/locations/devils-dyke/): Devil's Dyke Road, Brighton, BN1 8YJ [(Live weather)](https://www.accuweather.com/en/gb/brighton/bn1-8/astronomy-weather/43171_pc)
 * [Ditchling Beacon](http://gostargazing.co.uk/events/locations/ditchling-beacon/): Ditchling, Brighton, Sussex, BN6 8XD [(Live weather)](https://www.accuweather.com/en/gb/keymer/bn6-8/astronomy-weather/43273_pc)
-* [Iping Common](http://gostargazing.co.uk/events/locations/iping-common/): Iping, Near Trotton, West Sussex, GU31 4LB [(Live weather)](https://www.accuweather.com/en/gb/iping/gu29-0/astronomy-weather/712893)
-* [Old Winchester Hill Nature Reserve](http://gostargazing.co.uk/events/locations/old-winchester-hill-nature-reserve/): Old Winchester Hill, Near Corhampton, Hampshire, SO32 3LJ [(Live weather)](https://www.accuweather.com/en/gb/meonstoke/so32-3/astronomy-weather/52404_pc)
+* [Birling Gap](http://gostargazing.co.uk/events/locations/birling-gap/): Birling Gap, Eastbourne, Sussex, BN20 0AB [(Live weather)](https://www.accuweather.com/en/gb/east-dean/bn20-0/astronomy-weather/43217_pc)
+
+#### M3 (Suburban)
 * [Winchester Science Centre & Planetarium](http://gostargazing.co.uk/events/locations/winchester-science-centre-planetarium/): Telegraph Way, Winchester, Hampshire, SO21 1HZ [(Live weather)](https://www.accuweather.com/en/gb/twyford/so21-1/astronomy-weather/52378_pc)
 
 ### Find Stargazing Spots
