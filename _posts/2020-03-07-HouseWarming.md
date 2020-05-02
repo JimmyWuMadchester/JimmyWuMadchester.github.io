@@ -7,6 +7,10 @@ comments: true
 excerpt_separator: <!--more-->
 ---
 
+买了各种产品设备，如果有兴趣升级智能家居的话，来体验下!
+
+<!--more-->
+
 ## Schedule
 
 1. Reigate Station at 11am
@@ -49,8 +53,6 @@ Can drivers please share your routes and space available in group chat?
 还有什么建议的可以分享下。家里餐桌有，但是椅子不多。没法全部人坐下来吃。
 
 ## Play and Demos
-
-买了各种产品设备，如果有兴趣升级智能家居的话，可以来体验下。
 
 1. Philips Hue motion controlled lights
 1. LG Homekit compatible TV
